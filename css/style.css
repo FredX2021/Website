@@ -1,0 +1,44 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'fredbear_2020_ligregular';
+}
+
+.headerimg {
+    text-align: center;
+}
+
+.headertxt {
+    text-align: center;
+}
+
+a, .buttonlist {
+    color: orange;
+}
+
+.buttonlist {
+    text-align: center;
+    font-size: 30px;
+}
+
+.navheader {
+    text-align: center;
+    color: orange;
+    font-size: 32px;
+}
+
+#melody {
+    margin-left: 590px;
+}
+
+#melodycaption {
+    text-align: center;
+}
+
+@font-face {
+    font-family: 'fredbear_2020_ligregular';
+    src: url('../webfonts/fb2020lig-webfont.woff2') format('woff2'),
+         url('../webfonts/fb2020lig-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
