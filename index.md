@@ -6,7 +6,7 @@
         <title>My First Website</title>
     </head>
     <center>
-    <img scr="" alt="logo">
+    <img scr="Fred X 2021 (Light).png" alt="logo">
     <h1>My First Website</h1>
     <h2>An HTML Playground</h2>
 </html>
